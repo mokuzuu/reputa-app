@@ -18,17 +18,17 @@ yarn start
 You can type any keyword in the search bar to get the reaction of tweets include the keyword. 
 
 Dashboard looks like this.
-![dashboard](./docs/reputa-1.png)
+![dashboard](./docs/reputa-1.PNG)
 
 As mentioned above, the search bar is where an user is able to provide any keyword to search.
 
 Let's say an user typed a keyword "corona" and run a search.
 
-![search_result](./docs/reputa-2.png)
+![search_result](./docs/reputa-2.PNG)
 
 You can see on the graph right, red part is percentage of  words with positive impression used in all filtered tweets, blue part is percentage of words negative impression, and grey part is neutral impression.
 
-![tweets](./docs/reputa-3.png)
+![tweets](./docs/reputa-3.PNG)
 The app displays first twenty tweets included in the process. words in blue color means negative, in red means positive and in grey means neutral.
 
 
