@@ -29,6 +29,7 @@ Let's say an user typed a keyword "corona" and run a search.
 You can see on the graph right, red part is percentage of  words with positive impression used in all filtered tweets, blue part is percentage of words negative impression, and grey part is neutral impression.
 
 ![tweets](./docs/reputa-3.PNG)
+
 The app displays first twenty tweets included in the process. words in blue color means negative, in red means positive and in grey means neutral.
 
 
